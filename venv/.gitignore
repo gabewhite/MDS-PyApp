@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+*.cfg
+/venv/lib/
+/venv/Scripts/
